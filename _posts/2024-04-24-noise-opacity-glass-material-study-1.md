@@ -6,3 +6,8 @@ categories: cinema-4d, after-effects, davinci-resolve, ableton-live
 ---
 
 ![Noise Opacity Glass Material Study #1](/assets/2024-04-24-noise-opacity-glass-material-study-1.jpg)
+
+<video controls>
+  <source src="/assets/2024-04-24-noise-opacity-glass-material-study-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
