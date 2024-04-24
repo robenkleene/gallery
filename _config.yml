@@ -1,0 +1,39 @@
+# Site settings
+title: Gallery
+email: contact@robenkleene.com
+description: "Roben Kleene's gallery"
+baseurl: ""
+url: "https://gallery.robenkleene.com"
+twitter_username: robenkleene
+github_username: robenkleene
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  # By default kramdown uses a link that gets converted to an ugly emoji
+  # character on iOS
+  footnote_backlink: "&#8617;&#xfe0e;"
+
+remote_theme: cyclist-grid/cyclist-jekyll
+cyclist_jekyll:
+  social_links:
+    twitter: robenkleene
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+twitter:
+  username: robenkleene
+  card: summary_large_image
+
+feed:
+  path: /feed/atom/index.xml
+
+# Theme
+# show_excerpts: true
+show_contents: true
+
+permalink: /:year/:month/:day/:title/
+
