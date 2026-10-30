@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rotating Glass Cube Study"
-image: /assets/2024-04-24-noise-opacity-glass-material.jpg
+image: /assets/2024-06-02-rotating-glass-cube-study.jpg
 categories: cinema-4d, redshift, davinci-resolve
 ---
 
